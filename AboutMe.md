@@ -2,4 +2,4 @@ About Me
 = 
 * School: HTL
 * Name: Florian H.
-* Class: 1LIT 
+* Class: 1 LIT 
