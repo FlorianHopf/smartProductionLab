@@ -1,3 +1,3 @@
-School: HTL
-Name: Florian H.
-Class: 1LIT 
+* School: HTL
+* Name: Florian H.
+* Class: 1LIT 
